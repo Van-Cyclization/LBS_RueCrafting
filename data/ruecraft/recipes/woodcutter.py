@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-import json
 
 woods = ['acacia', 'birch', 'crimson', 'dark_oak', 'jungle', 'spruce', 'oak', 'warped']
 products = ['stairs', 'slab']
@@ -22,6 +21,7 @@ def jsonGenerate():
 }}
 '''
             json_file.write(file_contents)
+            json_file.close()
 
 
 if __name__ == '__main__':
