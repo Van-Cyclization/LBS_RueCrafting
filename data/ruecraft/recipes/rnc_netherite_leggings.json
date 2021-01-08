@@ -1,11 +1,11 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"OXO",
-		"HTH",
-		"OFO"
-	],
-	"key": {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OXO",
+        "HTH",
+        "OFO"
+    ],
+    "key": {
         "H": {
             "item": "minecraft:wither_skeleton_skull"
         },
@@ -25,5 +25,5 @@
     "result": {
         "item": "minecraft:netherite_leggings",
         "count": 1
-	}
+    }
 }

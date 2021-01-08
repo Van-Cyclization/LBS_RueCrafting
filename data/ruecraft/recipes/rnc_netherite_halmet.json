@@ -1,11 +1,11 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"FOF",
-		"HTH",
-		"OXO"
-	],
-	"key": {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "FOF",
+        "HTH",
+        "OXO"
+    ],
+    "key": {
         "H": {
             "item": "minecraft:wither_skeleton_skull"
         },
@@ -25,5 +25,5 @@
     "result": {
         "item": "minecraft:netherite_helmet",
         "count": 1
-	}
+    }
 }

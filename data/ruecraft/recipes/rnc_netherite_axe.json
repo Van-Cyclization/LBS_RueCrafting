@@ -1,11 +1,11 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"HXH",
-		"OTO",
-		"IFI"
-	],
-	"key": {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HXH",
+        "OTO",
+        "IFI"
+    ],
+    "key": {
         "H": {
             "item": "minecraft:wither_skeleton_skull"
         },
@@ -28,5 +28,5 @@
     "result": {
         "item": "minecraft:netherite_axe",
         "count": 1
-	}
+    }
 }
